@@ -1,5 +1,5 @@
 # Plain black screen
-Hide OS clutter, to avoid distraction and screen burn
+Hide OS clutter, to avoid distraction and screen burn.
 
 ## Usage
 - Open [the HTML page](https://trichoplax.github.io/plain-black-screen) in a separate browser window.
